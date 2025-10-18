@@ -32,9 +32,6 @@ Future Improvements
 Integrate additional machine learning models (e.g., LightGBM, XGBoost) for enhanced prediction accuracy.
 Expand feature engineering to include more temporal and behavioral patterns.
 
-Contact
-For questions or contributions, reach out to Vaidehi Tiwari at vaidehi.tiwari@mitwpu.edu.in.
-
 Instructions:
 
 Save this text in a file named README.md in your project directory.
